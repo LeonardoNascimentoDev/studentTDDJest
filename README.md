@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### 🚧 Backend
 O projeto utilizada apenas parte de backend.
 
-</br></br>
+</br>
 
 ###Instações da lib </br>
 yarn add -D jest
