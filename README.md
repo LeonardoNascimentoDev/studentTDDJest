@@ -11,11 +11,11 @@ O projeto utilizada apenas parte de backend.
 
 </br></br>
 
-###Instações da lib 
+###Instações da lib </br>
 yarn add -D jest
 
-###Comando para testar os arquivos de teste
+###Comando para testar os arquivos de teste </br>
 npx jest
 
-###Ouvindo testes com watch
+###Ouvindo testes com watch </br>
 npx jest --watchAll
