@@ -1,0 +1,8 @@
+#Regra de négocio para estudantes
+
+Regras: (3)
+    ☐ Devemos conseguir somar as notas dos alunos
+    ☐ Se caso uma nota for zero, a soma dever retornar zero
+    ☐ Caso o aluno tenha mais de cinco notas a soma deve ser multiplicada por 2
+    ☐ Caso a nota seja maior que 9 deve ser dobrada
+       
