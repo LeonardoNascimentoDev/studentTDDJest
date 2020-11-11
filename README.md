@@ -8,3 +8,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 🚧 Backend
 O projeto utilizada apenas parte de backend.
+
+###Instações da lib 
+yarn add -D jest
+
+###Comando para testar os arquivos de teste
+npx jest
+
+###Ouvindo testes com watch
+npx jest --watchAll
